@@ -664,3 +664,9 @@ ul li {
                width: 100%;
             }
        }
+
+       @media screen and (min-width: 1200px) {
+        .containerc {
+            padding:0 10% 0 10%;
+        }
+    }
