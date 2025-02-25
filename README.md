@@ -16,5 +16,9 @@ I Daksh Lakhi developed an innovative, solar-powered electronic device designed 
 
 This multi-functional device is perfect for anyone needing a versatile, reliable, and sustainable gadget. Whether you’re exploring the outdoors or just looking for a convenient all-in-one tool, this device has you covered.
 
+## 📷 Screenshot
+
+![Display website screenshot of Multi-Functional Electronic All-Rounder](website-img.png)
+
 ## Contact
 For any queries or suggestions, feel free to contact me via [dakshlakhi01@gmail.com](mailto:dakshlakhi01@gmail.com).
